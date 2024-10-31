@@ -1,6 +1,5 @@
-# Amazon_Sales_Analysis_using_Excel
 
-## Data Cleaning and Exploration
+### Data Cleaning and Exploration
 at initial steps of data cleaning involve checking for duplicate records and addressing missing values. For handling missing values, utilize the "Filter" function to isolate and review rows with blank cells. Additionally, appllied conditional formatting to highlight empty cells to summarize data and identify patterns in missing values. These methods help maintain data integrity and ensure a more accurate analysis moving forward.
 
 ### Summary of Report
